@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ItemsCollection
+comment1.params=
+comment1.target=ItemsCollection()
+comment2.params=newItem
+comment2.target=boolean\ addItem(Item)
+comment3.params=itemNumber
+comment3.target=void\ playItem(int)
+comment4.params=
+comment4.target=int\ getNumberOfCDs()
+comment5.params=year
+comment5.target=void\ oldiesButGoldies(int)
+numComments=6

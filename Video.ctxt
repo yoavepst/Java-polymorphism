@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Video
+comment1.params=title\ year\ director
+comment1.target=Video(java.lang.String,\ int,\ java.lang.String)
+comment2.params=other
+comment2.target=Video(Video)
+comment3.params=
+comment3.target=java.lang.String\ getDirector()
+comment4.params=director
+comment4.target=void\ setDirector(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment6.params=
+comment6.target=void\ play()
+comment7.params=year
+comment7.target=boolean\ isOlder(int)
+numComments=8
